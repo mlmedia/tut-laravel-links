@@ -1,13 +1,11 @@
 # Laravel tutorial
-Laravel tutorial from [https://laravel-news.com/your-first-laravel-application](https://laravel-news.com/your-first-laravel-application)
-
+Laravel tutorial using the example of managing links.
 
 ## Reference
-[Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
+- [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
 
-## NOTE
-This is an old project and just keeping it here for posterity purposes.
+## Original Laravel README
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
