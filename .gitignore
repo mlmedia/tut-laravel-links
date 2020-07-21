@@ -43,6 +43,7 @@ __MACOSX
 .settings
 .classpath
 .vagrant
+.idea
 
 ### Package / dependency managers
 node_modules
@@ -54,7 +55,6 @@ components
 
 ### Laravel-specific
 .env
-.idea
 **/storage/
 **/public/hot
 **/vendor
